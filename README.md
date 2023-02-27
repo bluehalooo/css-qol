@@ -7,4 +7,4 @@ This is just a qualtiy of life thing.
 <h1>HOW TO USE</h1>
 
 Just copy and paste this code:
-<code> &lt;link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" /&gt;</code>
+<code> &lt;link rel="stylesheet" href="[https://pyscript.net/latest/pyscript.css](https://bluehalooo.github.io/css-qol/define.css)" /&gt;</code>
