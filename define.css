@@ -3,19 +3,13 @@ button{
     border-radius: 12px;
     color:rgb(255, 255, 255);
     background-color: rgba(10, 10, 10, 0.6);
+    border:none;
+    text-align: center;
+
 }
 button:hover {
 color:black;
     background-color:white;
+    transition-duration: 0.2s;
 }
 
-mirror {
-    margin-top: 100px;
-    font-size: 5em;
-    font-weight: 900;
-}
-  
-mirror::after {
-    display: flex;
-    transform: rotateX(180deg);
-}
