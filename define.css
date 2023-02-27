@@ -1,2 +1,11 @@
 
-I figure I should add something here
+button{
+    border-radius: 12px;
+    color:rgb(255, 255, 255);
+    background-color: rgba(10, 10, 10, 0.6);
+}
+button:hover {
+color:black;
+    background-color:white;
+}
+
